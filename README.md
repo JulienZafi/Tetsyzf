@@ -1,6 +1,6 @@
 - 👋 Mechanical engineer working on C++ development
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C/C++ UE4 Game Development
+- 🌱 I’m currently learning C/C++ UE5 Game Development
 - 💞️ I’m looking to collaborate on all kind of subjects
 - 📫 How to reach me julien.zafi@gmail.com
 
